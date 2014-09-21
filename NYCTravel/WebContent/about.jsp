@@ -4,7 +4,7 @@
 <title>About - NYC Travel Kit</title>
 <meta property='og:site_name' content='NYC Travel Kit' />
 <meta property='og:title' content='About' />
-<meta property='og:description' content='This is Web/Mobile Application which gets data from NYC Open Data Source. Refines data using open refinery and some Map Reduce Scripts and upload whole data into RDS Database. Now based on users...' />
+<meta property='og:description' content='This is Website gets data from NYC Open Data Source. Refines data using openRefine and some Map Reduce Scripts and uploads whole data into RDS Database. Now based on users...' />
 <meta property='og:url' content='/about.jsp' />
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
